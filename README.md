@@ -135,10 +135,5 @@ Workflow suggestions:
 
 This repository uses the ISC license (see `package.json`).
 
----
-
-If you want, I can also:
-- add a GitHub Actions workflow to run tests/lint on pushes and PRs
-- add a small example test for `packages/01-utilities/src/deepClone.js`
 
 Happy hacking!
